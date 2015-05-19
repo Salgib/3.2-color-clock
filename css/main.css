@@ -1,25 +1,31 @@
+/* /Radial Grandient/
 html {
-  height: 100%; }
 
+  height: 100%;
+
+}
 body {
-  background-image: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 800, from(#b032cb), to(#440951));
-  margin: 0 auto; }
 
+  background-image: -webkit-gradient(radial, 50% 50%, 0, 50%  50%, 800, from(#b032cb), to(#440951));
+  margin: 0 auto;
+}
+/End Radial Gradient/ */
 section {
   font-family: Arial;
-  font-size: 3em;
+  font-size: 5em;
   color: white;
   margin: 0 auto;
   display: inline-block; }
 
+section,
 .hours,
 .minutes,
 .seconds {
   display: inline-block;
   margin: 250px auto 0 auto; }
 
-.hours {
-  margin-left: 585px; }
+#clock {
+  margin-left: 555px; }
 
 hr {
   width: 500px; }
