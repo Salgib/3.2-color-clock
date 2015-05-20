@@ -18,13 +18,14 @@ function displayTime() {
 
 
 //
+// //
+//
 // function formattedTime(); {
 //   var formattedHours = ("0" + hours).slice(-2);
 //   var formattedMinutes = ("0" + minutes).slice(-2);
 //   var formattedSeconds = ("0" + seconds).slice(-2);
 //   return formatted;
 // }
-//
 //
 
 
